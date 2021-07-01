@@ -1,0 +1,5 @@
+Alexandra,19,nő
+Misi,30,férfi
+Judit,19,nő
+Beáta,19,nő
+Dávid,30,férfi

@@ -1,0 +1,9 @@
+= Practice for OOP
+
+What is an Object and how to create, constructor, getter, setter.
+
+---
+
+website with explanation:
+
+https://www.youtube.com/watch?v=DhwxDv8sx00&list=PLiI5npG01fe9TagrJ8Q3P8rO3CvXiVH8q&index=24
